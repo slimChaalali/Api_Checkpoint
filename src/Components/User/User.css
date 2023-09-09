@@ -1,0 +1,9 @@
+.users{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding:12%
+}
+.carde{
+    margin-bottom: 20px;
+}
